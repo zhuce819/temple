@@ -2,6 +2,10 @@
 ## 需要准备的内容
  * 你的ss或者ssr节点信息 例如:ss:// 或者 ssr://
  * github账号
+
+## 如需帮助
+这已经是比较简单易懂的方案了,如果还搞定不了可以点击加入这个telegram群组寻求帮助
+[跳蚤市场-科学上网交流等](https://t.me/PharosMarketShopping)
  
 ## Step one
  
@@ -78,7 +82,10 @@ ssr://MTYxLjEyOS40MS4xMDU6NDM6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYX
 
 ![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/13.jpg)
 
-#end
+
+## *注意本教程为了更简单所以采用的是Fork的方案,有能力的同学最好自建自己的github项目*
+
+# end
 
 
 
