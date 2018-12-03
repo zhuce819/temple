@@ -14,7 +14,7 @@
  
 ![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/1.jpg)
 
-点击图片中箭头所指的 Fork 按钮(这个Fork相当于拷贝了一份相同的项目)
+点击图片中箭头所指的 Fork 按钮(这个Fork相当于拷贝了一份相同的项目),顺手把左边的Star也点了吧 : ~ )
 
 ![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/2.jpg)
 
