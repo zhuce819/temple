@@ -45,17 +45,17 @@ ssr://MTYxLjEyOS40MS4xMDU6NDM6YXV0aF9zaGExX3Y0OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYX
 
 
 
-复制排列好的节点信息然后进入这个base64的链接进行base64的加密
-[base64加密](http://tool.chinaz.com/Tools/Base64.aspx)
+复制排列好的节点信息然后进入这个base64的链接进行base64编码
+[base64编码](http://tool.chinaz.com/Tools/Base64.aspx)
 
 ![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/6.jpg)
-复制的节点信息粘贴到图中1标注的位置,然后点击Base64加密
+复制的节点信息粘贴到图中1标注的位置,然后点击Base64编码
 ![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/7.jpg)
-复制加密后的字符
+复制编码后的字符
 
 ## Step Three
 
-将上一步复制的加密字符粘贴到第一步完成的文本编辑框
+将上一步复制的编码字符粘贴到第一步完成的文本编辑框
 
 
 
